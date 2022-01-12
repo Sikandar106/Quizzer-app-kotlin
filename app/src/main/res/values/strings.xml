@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    //intro String
+    <string name="introWelcome">Welcome to Quiz Master</string>
+    <string name="introGetStarted">Get Started</string>
+
+    //login string
+    <string name="textViewLoginHeader">Login Now</string>
+    <string name="textViewLoginHeaderDesc">Please login to continue using app</string>
+    <string name="btnLogin">Log In</string>
+
+    //signUp String
+    <string name="textViewSignUpHeader">Stay Connected</string>
+    <string name="editTextSignUpEmail">Email</string>
+    <string name="editTextSignUpPassword">Password</string>
+    <string name="editTextSignUpConfirmPassword">Confirm Password</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="textViewSignIn">Already have an account? Login</string>
+
+    //card View string
+    <string name="quiz_item_textView">Hello World</string>
+</resources>

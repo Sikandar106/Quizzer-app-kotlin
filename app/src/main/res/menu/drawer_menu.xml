@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItemProfile"
+        android:title="Profile"
+        android:icon="@drawable/ic_user_profile"/>
+    <item
+        android:id="@+id/menuItemFollowUs"
+        android:title="Follow Us"
+        android:icon="@drawable/ic_user_follow_us"/>
+    <item
+        android:id="@+id/menuItemRateUs"
+        android:title="Rate Us"
+        android:icon="@drawable/ic_user_rate_us"/>
+    <item
+        android:id="@+id/menuItemLogout"
+        android:title="Log Out"
+        android:icon="@drawable/ic_user_logout"/>
+</menu>

@@ -1,4 +1,6 @@
 Quizzer Kotlin App
+
+
 This is quizzer app where user guess the answer and get rewarded if the answer is correct.
 This is app is all about increasing the knowlegde of user and also its fun to play this game because this app also react like a game.
 This app is generating list of question and never make their user get bored while playing it.
